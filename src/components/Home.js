@@ -1,7 +1,10 @@
 function Home() {
     return (
-        <p>Home Page</p>
+        <>
+            <h1>Home</h1>
+            <div>Welcome to your friendly neighborhood dentist</div>
+        </>
     )
 }
 
-export default Home;
+export default Home
